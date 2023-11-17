@@ -23,6 +23,14 @@ Chat GPT, Yolov5, Pytorch 를 이용해 만든 인공지능 로봇팔 프로젝�
 ![박민준_교내대회상장](https://github.com/MinjoonHK/Management_system/assets/108560916/8388f7ed-2765-459e-a599-9c1ae8e4598e)
 </details>
 
+### 📹 시연영상
+
+<details>
+<summary>링크</summary>
+
+<a href="https://drive.google.com/file/d/1DnBJjYnD865rR_pSP4vK570wJWQ3_PCM/view?usp=sharing">구글드라이브 링크</a>
+</details>
+
 ## 📌주요 기능
 #### 사물인식 및 그림그리기
 #### 사물인식 및 글쓰기
