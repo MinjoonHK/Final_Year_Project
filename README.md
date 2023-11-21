@@ -34,39 +34,19 @@ Chat GPT, Yolov5, Pytorch 를 이용해 만든 인공지능 로봇팔 프로젝�
 ## 📌주요 기능
 ### 사물인식 및 그림그리기
 #### 💻Code
-
-<details>
-  <summary>위키로 이동</summary>
-
-  <a href=""></a>
-</details>
+<a href="https://github.com/MinjoonHK/Final_Year_Project/wiki/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%E2%80%90-%EC%82%AC%EB%AC%BC%EC%9D%B8%EC%8B%9D-%EB%B0%8F-%EA%B7%B8%EB%A6%BC%EA%B7%B8%EB%A6%AC%EA%B8%B0">위키로 이동</a>
 
 ### 글쓰기
 #### 💻Code
-
-<details>
-  <summary>위키로 이동</summary>
-
-  <a href=""></a>
-</details>
+<a href="https://github.com/MinjoonHK/Final_Year_Project/wiki/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%E2%80%90-%EA%B8%80%EC%93%B0%EA%B8%B0">위키로 이동</a>
 
 ### 유저와 대화
 #### 💻Code
+<a href="https://github.com/MinjoonHK/Final_Year_Project/wiki/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%E2%80%90-%EC%9C%A0%EC%A0%80%EC%99%80-%EB%8C%80%ED%99%94">위키로 이동</a>
 
-<details>
-  <summary>위키로 이동</summary>
-
-  <a href=""></a>
-</details>
-
-### 인공지능 / Fine Tuning
+### ChatGPT / Fine Tuning
 #### 💻Code
-
-<details>
-  <summary>위키로 이동</summary>
-
-  <a href=""></a>
-</details>
+<a href="https://github.com/MinjoonHK/Final_Year_Project/wiki/%EC%A1%B8%EC%97%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%E2%80%90-ChatGPT---Fine-Tuning">위키로 이동</a>
 
 
 
