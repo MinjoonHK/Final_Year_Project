@@ -32,10 +32,42 @@ Chat GPT, Yolov5, Pytorch 를 이용해 만든 인공지능 로봇팔 프로젝�
 </details>
 
 ## 📌주요 기능
-#### 사물인식 및 그림그리기
-#### 글쓰기
-#### 유저와 대화
-#### 인공지능 / Fine Tuning
+### 사물인식 및 그림그리기
+#### 💻Code
+
+<details>
+  <summary>위키로 이동</summary>
+
+  <a href=""></a>
+</details>
+
+### 글쓰기
+#### 💻Code
+
+<details>
+  <summary>위키로 이동</summary>
+
+  <a href=""></a>
+</details>
+
+### 유저와 대화
+#### 💻Code
+
+<details>
+  <summary>위키로 이동</summary>
+
+  <a href=""></a>
+</details>
+
+### 인공지능 / Fine Tuning
+#### 💻Code
+
+<details>
+  <summary>위키로 이동</summary>
+
+  <a href=""></a>
+</details>
+
 
 
 
